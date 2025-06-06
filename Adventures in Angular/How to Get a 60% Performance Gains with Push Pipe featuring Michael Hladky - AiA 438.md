@@ -13,3 +13,5 @@ triggering and every rendering on Angular. This is maybe the stuff some people m
 We have application ref or application ref services. These services are connected to the root component, the root component, most upper componet of component maintain and contains the whole application ... call.. run not run you tick the change detection on whole app
 everything will leave in child component if there's a change or not. So in Angular, we can run change detection in two different ways. You can say my change detection is a default way of doing that.
 Whenever your whole application has the default change detection, it will rerender everything, it will rerender all components that leaves, lists no change.
+
+## Clip: 05:10 - 07:10
